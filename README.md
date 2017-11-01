@@ -1,4 +1,7 @@
 # docker-python-nodejs
+
+[![Build Status](https://travis-ci.org/geekyfox90/docker-python-nodejs.svg?branch=master)](https://travis-ci.org/geekyfox90/docker-python-nodejs)
+
 ## Node.js with Python based on Centos 7
 
     Node: v8.9.x
