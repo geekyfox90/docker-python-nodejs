@@ -4,9 +4,9 @@
 
 ## Node.js with Python based on Centos 7
 
-    Node: v8.9.x
-    Python: 3.6.x
-    Npm: 5.5.1
+    - Node: v8.9.x
+    - Python: 3.6.x
+    - Npm: 5.5.1
 
 ### Pull from Docker Hub
 ```
