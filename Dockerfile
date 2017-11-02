@@ -8,4 +8,4 @@ RUN \
   yum -y -q -e 0 install python36u-pip &&\
   curl --silent --location https://rpm.nodesource.com/setup_8.x | bash - && \
   yum -y -q -e 0 install nodejs && \
-  yum -y -q -e 0 install gcc-c++ make
+  yum -y -q -e 0 install gcc-c++ make git
